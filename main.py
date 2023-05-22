@@ -3,7 +3,7 @@ import store
 menu = """1. List all products in store         2. Show total items in store
 3. Make an order                      4. Add product into warehouse
 5. Remove product from warehouse      6. Update for product
-7. Search product (Name / Price / Quantity)
+7. Search product (Name/Price/Quantity)
 8. Sort products                      9. Quit"""
 
 def make_order():
